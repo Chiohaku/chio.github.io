@@ -1,9 +1,13 @@
 3.0.0.507
-1004
+1006
 1000,index.htm,0,New Page 1,0,1696953599,1
 vti_globalpage:BW|true
 1001,sid:1001,0,New Link Bar,0,1696955475,2
 vti_globalpage:BW|true
 vti_navsequence:BW|true
+1004,sid:1004,0,New Link Bar 2,0,1696956163,2
+vti_globalpage:BW|true
+vti_navsequence:BW|true
 1002,pdf.htm,0,pdf.htm,1001,1696955475,0
 1003,random.htm,0,random.htm,1001,1696955475,0
+1005,files/heavy/vampiresurvivors.zip,0,files\\heavy\\vampiresurvivors.zip,1004,1696956163,0
